@@ -56,9 +56,9 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     elif 70 <= umm < 80:
         bar = "—Jani—Pawar—"
     elif 80 <= umm < 95:
-        bar = "——𝐕𝐢𝐏—𝐉𝐚𝐧𝐢——"
+        bar = "——˹𐓘ᴠᴇɴɢᴇʀs˼——"
     else:
-        bar = "————𝐕𝐢𝐏————♡"
+        bar = ⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐈 s꯭ ᴛ ꯭ᴋ ꯭ʜ ꯭𐓘꯭ ʀ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪♡"
 
     buttons = [
         [
@@ -76,10 +76,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="http://t.me/AVENGERS_OWNER",
+                text="✰ ᴏᴡɴᴇʀ ✰", url="http://t.me/AVENGERS_OWNER",
             ),
             InlineKeyboardButton(
-                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/II_WORLD_CHAT_II",
+                text="✰ ᴄʜᴀᴛ ✰", url="https://t.me/II_WORLD_CHAT_II",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -99,10 +99,10 @@ def stream_markup(_, videoid, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="http://t.me/AVENGERS_OWNER",
+                text="✰ ᴏᴡɴᴇʀ ✰", url="http://t.me/AVENGERS_OWNER",
             ),
             InlineKeyboardButton(
-                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/II_WORLD_CHAT_II",
+                text="✰ ᴄʜᴀᴛ ✰", url="https://t.me/II_WORLD_CHAT_II",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
